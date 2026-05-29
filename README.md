@@ -15,6 +15,19 @@ OrchestrAI is a full-stack multi-agent research dashboard. Users enter a topic, 
 - Simulation mode for local demos when provider API keys are not configured
 - SQLite-backed history endpoints
 
+## Working Screenshots :
+
+<img width="1403" height="738" alt="Screenshot 2026-05-29 174921" src="https://github.com/user-attachments/assets/4c8d8393-93c3-414b-9839-a768628f17ae" />
+
+<img width="1143" height="641" alt="Screenshot 2026-05-29 175020" src="https://github.com/user-attachments/assets/9e4545ec-a658-421c-91fd-66c0d723a0ed" />
+
+<img width="1355" height="451" alt="Screenshot 2026-05-29 174938" src="https://github.com/user-attachments/assets/1235970a-90aa-4b28-95d4-d448ad8cafc7" />
+
+<img width="1162" height="640" alt="Screenshot 2026-05-29 175035" src="https://github.com/user-attachments/assets/6c4890d7-427b-49b4-950e-4172976e55d5" />
+
+<img width="1143" height="641" alt="Screenshot 2026-05-29 175020" src="https://github.com/user-attachments/assets/60613228-408c-46db-b4d9-3fbd6a92719e" />
+
+
 ## Tech Stack
 
 - Frontend: React, Vite, Tailwind CSS, React Markdown
@@ -173,5 +186,4 @@ python -m py_compile main.py pipeline.py
 ```
 
 ## License
-
-No license has been specified yet. Add a license before publishing if this repository will be distributed publicly.
+MIT -License
