@@ -25,7 +25,8 @@ OrchestrAI is a full-stack multi-agent research dashboard. Users enter a topic, 
 
 <img width="1162" height="640" alt="Screenshot 2026-05-29 175035" src="https://github.com/user-attachments/assets/6c4890d7-427b-49b4-950e-4172976e55d5" />
 
-<img width="1143" height="641" alt="Screenshot 2026-05-29 175020" src="https://github.com/user-attachments/assets/60613228-408c-46db-b4d9-3fbd6a92719e" />
+<img width="1100" height="637" alt="Screenshot 2026-05-29 175112" src="https://github.com/user-attachments/assets/5c430547-80c8-4adb-8cec-bad6a9ddceb2" />
+
 
 
 ## Tech Stack
